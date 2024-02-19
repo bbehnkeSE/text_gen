@@ -1,4 +1,4 @@
-#text_gen
+# text_gen
 
 A basic CLI transformer model to generate arbitrary text.
 
