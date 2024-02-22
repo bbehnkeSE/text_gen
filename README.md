@@ -1,6 +1,7 @@
 # text_gen
 
 A basic CLI transformer model to generate arbitrary text. 
+
 **This project is for my own educational purposes only and not intended for any production application**
 
 Based on the paper "Attention is All You Need" (Vaswani, et al., [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)) and the [nanoGPT](https://github.com/karpathy/nanoGPT) implementation by Andrej Karpathy.
