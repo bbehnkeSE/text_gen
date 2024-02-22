@@ -11,3 +11,7 @@ The model itself was too large to upload to GitHub, however it was trained on ap
 ![](https://github.com/bbehnkeSE/text_gen/blob/main/assets/train_val_loss.png)
 
 Generate.py is used to generate the arbitrary text to either a file or the standard console (example_output.txt shows an example output of 1,000 tokens). Generate.py is able to accept a string as a command line argument to offer context to the generation, though it is unable to respond to queries in any appreciable way.
+
+### TODO:
+
+Add an encoder block and train it to respond to user input.
